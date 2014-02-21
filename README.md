@@ -1,4 +1,4 @@
-ecuts.github.io
+Ecuts Barbershops
 ===============
 
 Ecuts Website
