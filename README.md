@@ -1,4 +1,2 @@
-Ecuts Barbershops
-===============
-
+# Ecuts Barbershops
 Ecuts Website
